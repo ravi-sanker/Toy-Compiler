@@ -1,0 +1,10 @@
+bin/
+obj/
+src/parser.cc
+include/parser.hh
+src/*_lex.cc
+.vscode/
+compile_flags.txt
+src/lexer.cc
+.clang-format
+test.be
